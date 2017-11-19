@@ -1,0 +1,9 @@
+Zadanie nr 5 (pakiet optional)
+W interfejsie "MathResults" ustaw wartość zwracaną "null" dla metody "getIntegersForDemo".
+Zwróć uwagę, że kompilator przy uruchamianiu zgłasza wyjątek "NullPointerException".
+
+W klasie "Java8Demo" użyj metody „ofNullable” z klasy "Optional" dla zmiennej z danymi testowymi.
+
+Wykorzystaj metodę "isPresent()" z klasy "Optional" tak, aby przy uruchamianiu nie pojawiał się wyjątek.
+
+Na koniec można nadpisać metodę "getIntegersForDemo" w klasie "Java8Demo" tak, aby zwracała jakieś liczby.

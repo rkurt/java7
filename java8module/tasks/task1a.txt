@@ -1,0 +1,18 @@
+Zadanie nr 1a (pakiet no_lambda)
+Utwórz interfejs "MathOperation" z 1 metodą "calculate" do obliczeń matematycznych.
+Parametrem wejściowym powyższej metody jest lista elementów typu Integer.
+Metoda zwraca wartość typu Integer.
+
+Przygotuj 2 klasy, które implementują ten interfejs.
+Pierwsza "MaxOperation" niech zwraca największą liczbę z podanej listy.
+Druga "MinOperation" niech zwraca najmniejszą liczbę z podanej listy.
+(warto użyć metod z klasy java.util.Collections)
+
+Utwórz klasę "Java8Demo" z metodą "main".
+Przygotuj prywatną metodę "getResult", która przyjmuje listę elementów typu Integer
+oraz instancję "MathOperation".
+Powyższa metoda ma nie zwracać żadnej wartości (void).
+Będzie ona wykonywać obliczenia oraz wyświetlać wynik typu "Wynik działania metody = X".
+
+Przygotuj dowolne dane testowe w metodzie "main".
+Wykonaj obliczenia używając utworzonych obiektów klasy "MinOperation" i "MaxOperation".

@@ -1,0 +1,10 @@
+Zadanie nr 3 (pakiet references)
+W klasie "Java8Demo" zastosuj referencję do metody max() i min().
+
+W tej klasie utwórz także 2 prywatne i statyczne metody "printMax" i "printMin".
+Obie przyjmują parametr typu Integer i nie zwracają żadnej wartości (void).
+Przenieś do tych metod instrukcję, która wyświetla "Wynik działania metody = X".
+Zmodyfikuj w każdej z nich zwracany napis tak, aby się różnił.
+Np. "Wynik działania metody max = X", "Wynik działania metody min = X".
+
+Na koniec zastosuj referencję także do metody printMax() i printMin().

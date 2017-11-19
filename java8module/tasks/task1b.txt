@@ -1,0 +1,5 @@
+Zadanie nr 1b (pakiet lambda)
+W klasie "Java8Demo" użyj wyrażeń lambda tak, aby nie trzeba było tworzyć
+instancji obiektów klasy MaxOperation i MinOperation.
+
+Klasę MaxOperation i MinOperation można usunąć.

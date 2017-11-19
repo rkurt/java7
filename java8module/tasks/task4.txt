@@ -1,0 +1,10 @@
+Zadanie nr 4 (pakiet default_static)
+Obok klasy "Java8Demo" stwórz interfejs "MathResults".
+Przenieś do niego statyczne metody "printMin" i "printMax" z klasy "Java8Demo".
+W klasie "LambaDemo" użyj powyższych metod z interfejsu.
+
+Ponadto, dodaj w tym interfejsie nową metodę "getIntegersForDemo" i oznacz ją jako "default".
+Metoda ta nie przyjmuje żadnych parametrów.
+Niech zwraca ona dane testowe (liczby), które zadeklarowane były w metodzie "main".
+W klasie "LambaDemo" użyj powyższej metody.
+Zwróć uwagę na to, że nie jest to metoda statyczna.

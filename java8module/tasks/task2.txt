@@ -1,0 +1,6 @@
+Zadanie nr 2 (pakiet functional_interfaces)
+W klasie "Java8Demo" użyj wbudowanego interfejsu funkcyjnego
+"Function" zamiast "MathOperation". Interfejs MathOperation można usunąć.
+
+Użyj także wbudowanego interfejsu funkcyjnego "Consumer" do wyświetlania wyników.
+(jako kolejny parametr prywatnej metody "getResult")
